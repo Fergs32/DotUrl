@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Colorful.Console">
+      <HintPath>E:\Desktop\Netflix\BIGNETFLIX_Unpacked\bin\Debug\Colorful.Console.dll</HintPath>
+    </Reference>
+    <Reference Include="Leaf.xNet">
+      <HintPath>E:\Desktop\Netflix\BIGNETFLIX_Unpacked\bin\Debug\Leaf.xNet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

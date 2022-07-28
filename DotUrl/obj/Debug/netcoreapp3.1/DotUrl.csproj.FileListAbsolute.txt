@@ -1,0 +1,16 @@
+C:\Users\Home\source\Cyber Security Projects\DotUrl\DotUrl\bin\Debug\netcoreapp3.1\DotUrl.exe
+C:\Users\Home\source\Cyber Security Projects\DotUrl\DotUrl\bin\Debug\netcoreapp3.1\DotUrl.deps.json
+C:\Users\Home\source\Cyber Security Projects\DotUrl\DotUrl\bin\Debug\netcoreapp3.1\DotUrl.runtimeconfig.json
+C:\Users\Home\source\Cyber Security Projects\DotUrl\DotUrl\bin\Debug\netcoreapp3.1\DotUrl.runtimeconfig.dev.json
+C:\Users\Home\source\Cyber Security Projects\DotUrl\DotUrl\bin\Debug\netcoreapp3.1\DotUrl.dll
+C:\Users\Home\source\Cyber Security Projects\DotUrl\DotUrl\bin\Debug\netcoreapp3.1\DotUrl.pdb
+C:\Users\Home\source\Cyber Security Projects\DotUrl\DotUrl\bin\Debug\netcoreapp3.1\Colorful.Console.dll
+C:\Users\Home\source\Cyber Security Projects\DotUrl\DotUrl\bin\Debug\netcoreapp3.1\Leaf.xNet.dll
+C:\Users\Home\source\Cyber Security Projects\DotUrl\DotUrl\obj\Debug\netcoreapp3.1\DotUrl.csprojAssemblyReference.cache
+C:\Users\Home\source\Cyber Security Projects\DotUrl\DotUrl\obj\Debug\netcoreapp3.1\DotUrl.AssemblyInfoInputs.cache
+C:\Users\Home\source\Cyber Security Projects\DotUrl\DotUrl\obj\Debug\netcoreapp3.1\DotUrl.AssemblyInfo.cs
+C:\Users\Home\source\Cyber Security Projects\DotUrl\DotUrl\obj\Debug\netcoreapp3.1\DotUrl.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\Cyber Security Projects\DotUrl\DotUrl\obj\Debug\netcoreapp3.1\DotUrl.csproj.CopyComplete
+C:\Users\Home\source\Cyber Security Projects\DotUrl\DotUrl\obj\Debug\netcoreapp3.1\DotUrl.dll
+C:\Users\Home\source\Cyber Security Projects\DotUrl\DotUrl\obj\Debug\netcoreapp3.1\DotUrl.pdb
+C:\Users\Home\source\Cyber Security Projects\DotUrl\DotUrl\obj\Debug\netcoreapp3.1\DotUrl.genruntimeconfig.cache
