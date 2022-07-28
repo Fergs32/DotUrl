@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Threading;
 using System.Linq;
 using System.Drawing;
 using System.Text;
@@ -20,6 +21,7 @@ namespace DotUrl.Components
                     if (RequestStorage.proxies.Count < 1)
                     {
                         Colorful.Console.WriteLine("[ProxyCheck] >> No proxies in file.", Color.BlueViolet, RequestStorage.proxies.Count);
+                        Thread.Sleep(-1);
                     }
                     else
                     {
@@ -32,6 +34,7 @@ namespace DotUrl.Components
             catch (Exception)
             {
                 Colorful.Console.WriteLine("Unable to grab proxies from text file, maybe missing \"proxies.txt\" file?");
+                    Thread.Sleep(-1);
             }
         }
         public static void CheckUrls()
@@ -44,7 +47,8 @@ namespace DotUrl.Components
             }
             catch (Exception)
             {
-                Colorful.Console.WriteLine("Unable to grab proxies from text file, maybe missing \"urls.txt\" file?");
+                Colorful.Console.WriteLine("Unable to grab urls from text file, maybe missing \"urls.txt\" file?");
+                Thread.Sleep(-1);
             }
         }
     } 
